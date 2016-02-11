@@ -1,0 +1,29 @@
+_repo: Commentary-on-Genesis-Vol-I-Luther-on-the-Creation_48193
+contributor:
+  translator:
+    agent_name: Lenker, John Nicholas
+    birthdate: 1858
+    deathdate: 1929
+    gutenberg_agent_id: '33055'
+    url: http://www.gutenberg.org/2009/agents/33055
+creator:
+  author:
+    agent_name: Luther, Martin
+    birthdate: 1483
+    deathdate: 1546
+    gutenberg_agent_id: '155'
+    url: http://www.gutenberg.org/2009/agents/155
+    wikipedia: http://en.wikipedia.org/wiki/Martin_Luther
+description: ''
+gutenberg_issued: '2015-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48193'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'Commentary on Genesis, Vol. I
+
+  Luther on the Creation'
+url: http://www.gutenberg.org/ebooks/48193
