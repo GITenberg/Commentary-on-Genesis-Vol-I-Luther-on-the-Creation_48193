@@ -1,4 +1,5 @@
 _repo: Commentary-on-Genesis-Vol-I-Luther-on-the-Creation_48193
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Lenker, John Nicholas
@@ -6,6 +7,9 @@ contributor:
     deathdate: 1929
     gutenberg_agent_id: '33055'
     url: http://www.gutenberg.org/2009/agents/33055
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Luther, Martin
@@ -15,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/155
     wikipedia: http://en.wikipedia.org/wiki/Martin_Luther
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48193#Commentary-on-Genesis-Vol-I-Luther-on-the-Creation
 gutenberg_issued: '2015-02-07'
 gutenberg_type: Text
 identifiers:
